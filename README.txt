@@ -1,59 +1,36 @@
-
-TITLE: 
-Elate - One Page Responsive Free HTML5 template
-
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Read Only by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-CREDITS:
+Just a super simple single-page responsive template built for personal sites and portfolios
+(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
+elements, and Sass sources.
 
-Bootstrap
-http://getbootstrap.com/
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-jQuery
-http://jquery.com/
+(* = Not included)
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
-Modernizr
-http://modernizr.com/
+AJ
+aj@lkn.io | @ajlkn
 
-Google Fonts
-https://www.google.com/fonts/
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
-Icomoon
-https://icomoon.io/app/
 
-Simple Line Icons
-https://github.com/thesabbir/simple-line-icons
+Credits:
 
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+	Demo Images:
+		Unsplash (unsplash.com)
 
-animate.css
-http://daneden.me/animate
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
 
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Styleswitcher for Demo
-https://github.com/camsjams/jquery-style-switcher
-
-countTo JS
-https://github.com/mhuggins/jquery-countTo
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Demo Images:
-http://pexels.com
-http://plmd.me
-
-Mafnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		CSS3 Pie (css3pie.com)
+		Respond.js (j.mp/respondjs)
+		Skel (skel.io)
